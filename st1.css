@@ -1,0 +1,44 @@
+body {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+a:link {
+    color: #00d0d0; 
+}
+a:visited {
+    color: #900060; 
+}
+details {
+    font-size: 20px;
+    margin-left:60px;
+    color: aquamarine;
+}
+h1 {
+    font-size: 50px;
+    margin-left:15px;
+}
+h2 {
+    font-size: 36px;
+    margin-left:25px;
+}
+p.descp {
+    font-size: 24px;
+    margin-left:60px;
+    margin-right: 20px;
+}
+p.moredesc {
+    font-size: 22px;
+    margin-left:65px;
+    color: white;
+}
+img.descImg {
+    display: flex;
+    float: right;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-height: 550px;
+}
+div.margtop {
+    margin-top: 100px;
+}
